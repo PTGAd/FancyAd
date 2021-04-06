@@ -1,0 +1,73 @@
+//
+//  FancyNativeExpressInterstitialAd.h
+//  FancyAdSDK
+//
+//  Created by admin on 2021/3/17.
+//
+
+#import <UIKit/UIKit.h>
+@class FancyNativeExpressInterstitialAd;
+
+NS_ASSUME_NONNULL_BEGIN
+
+@protocol FancyNativeExpressInterstitialAdDelegate <NSObject>
+
+/// 广告加载成功
+- (void)fancy_nativeExpressInterstitialAdDidLoad:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+
+/// 广告加载失败
+- (void)fancy_nativeExpressInterstitialAd:(FancyNativeExpressInterstitialAd *)InterstitialAd didLoadFailWithError:(NSError *_Nullable)error;
+
+/// Interstitial广告渲染成功
+/// @param nativeExpressAd 渲染成功的模板广告
+- (void)fancy_nativeExpressInterstitialAdRenderSuccess:(FancyNativeExpressInterstitialAd *)nativeExpressAd;
+
+///  Interstitial广告渲染失败
+/// @param nativeExpressAd 渲染失败的模板广告
+/// @param error 渲染过程中的错误
+- (void)fancy_nativeExpressInterstitialAdRenderFail:(FancyNativeExpressInterstitialAd *)nativeExpressAd error:(NSError *_Nullable)error;
+
+/// 广告将要曝光
+- (void)fancy_nativeExpressInterstitialAdWillBecomVisible:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+
+/// 广告被点击
+- (void)fancy_nativeExpressInterstitialAdDidClick:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+ 
+/// 广告被关闭
+- (void)fancy_nativeExpressInterstitialAdClosed:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+
+/// 原生模板广告将要展示详情页
+- (void)fancy_nativeExpressInterstitialAdWillPresentScreen:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+
+/// 广告详情页给关闭
+- (void)fancy_nativeExpressInterstitialAdViewDidCloseOtherController:(FancyNativeExpressInterstitialAd *)InterstitialAd;
+
+@end
+
+
+@interface FancyNativeExpressInterstitialAd : NSObject
+
+/// 广告id 只读，开发者不允许修改
+@property(nonatomic,copy,readonly)NSString *slotId;
+
+///// delegate
+@property(nonatomic,weak)id<FancyNativeExpressInterstitialAdDelegate> delegate;
+
++ (instancetype)new NS_UNAVAILABLE;
+
+- (instancetype)init NS_UNAVAILABLE;
+/// 初始化
+/// @param slotId 广告id
+/// @adSize 广告大小 传入宽度，高度传0  自适应高度
+- (instancetype)initWithSlotId:(NSString *)slotId NS_DESIGNATED_INITIALIZER;
+
+/// 加载广告
+- (void)loadAd;
+
+/// 展示广告
+/// @param currentViewController 当前控制器
+- (void)showAdFromViewController:(UIViewController *)currentViewController;
+
+@end
+
+NS_ASSUME_NONNULL_END

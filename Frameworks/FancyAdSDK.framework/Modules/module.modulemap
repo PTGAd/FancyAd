@@ -1,0 +1,6 @@
+framework module FancyAdSDK {
+  umbrella header "FancyAdSDK.h"
+
+  export *
+  module * { export * }
+}
