@@ -45,10 +45,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic,weak)id<FancySplashAdDelegate> delegate;
 
 /// bottom view 
-@property(nonatomic,strong)UIView *buttomView;
-
-/// 当前的控制器 栈顶控制器
-@property(nonatomic,weak)UIViewController *currentViewController;
+@property(nonatomic,strong)UIView *bottomView;
 
 + (instancetype)new NS_UNAVAILABLE;
 
@@ -60,6 +57,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 加载广告
 - (void)loadAd;
 
+
+/// 展示开屏广告
+- (void)showAdFromRootViewController:(UIViewController *)viewController;
 
 @end
 

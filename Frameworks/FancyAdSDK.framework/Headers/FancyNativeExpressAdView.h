@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface FancyNativeExpressAdView : UIView
 
+@property(nonatomic,assign,readonly)BOOL isReady;
+
 @property(nonatomic,strong)UIViewController *currentViewController;
 
 - (void)render;

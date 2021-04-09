@@ -31,7 +31,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "fancy" => "ptg_all@fancydigital.com.cn" }
 
-  spec.source       = { :git => "https://github.com/PTGAd/FancyAd", :tag => "#{spec.version }" }
+  spec.source       = { :git => "https://github.com/PTGAd/FancyAd.git", :tag => "#{spec.version }" }
 
 
   spec.platform     = :ios, "9.0"

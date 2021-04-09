@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/FancyNativeExpressAdView.h</key>
 		<data>
-		Xxhp9FHzvvfYf1vWTGGGUCinKSE=
+		LQ8Aaf4SESnuh2745YiSPbGK2Z4=
 		</data>
 		<key>Headers/FancyNativeExpressBannerAd.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Headers/FancySDKManager.h</key>
 		<data>
-		AS3pAj6L7Y9KpGphJS1VRmGsxuU=
+		PWoHM8nW4ZRXfMAvLh3KxoAnB7A=
 		</data>
 		<key>Headers/FancySplashAd.h</key>
 		<data>
-		3djOmSO0wcPJNjnkbklyMcBn/YY=
+		j/cj/bJt9j70LDvbF5FJKAEA5yc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -69,11 +69,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xxhp9FHzvvfYf1vWTGGGUCinKSE=
+			LQ8Aaf4SESnuh2745YiSPbGK2Z4=
 			</data>
 			<key>hash2</key>
 			<data>
-			1gaxf+dV3KUp2L0oK05V50JtABvK6AhllYpenjb2+2s=
+			KEL41PRmEdLsaZnCKBvT79ZDPQeLRjxv4xlqdw+EDq8=
 			</data>
 		</dict>
 		<key>Headers/FancyNativeExpressBannerAd.h</key>
@@ -102,22 +102,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AS3pAj6L7Y9KpGphJS1VRmGsxuU=
+			PWoHM8nW4ZRXfMAvLh3KxoAnB7A=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z4brE6+wXEKGmL46ogBV+5c+XC1Yx6jI+Aq9IcOW5x8=
+			TGcwWaShEgThP/f6SXvxWKixsJZKs17Ls0eKLbfg7E0=
 			</data>
 		</dict>
 		<key>Headers/FancySplashAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3djOmSO0wcPJNjnkbklyMcBn/YY=
+			j/cj/bJt9j70LDvbF5FJKAEA5yc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2v3qspbT8a7bM4t9ABf8MqMu9QlDyZB6YoU6HF9/vIs=
+			cDtt7RsDxHS3RQiW4Wu4y9rkVb5o5v8UZTZAhf2jJHw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
