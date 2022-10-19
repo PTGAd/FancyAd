@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/FancyAdSDK.h</key>
 		<data>
-		WJXYZ3DPKfFMEzXpIjfcjjorMiM=
+		ydcpUok3JTxR6bzOVtrrjEIGjFo=
 		</data>
 		<key>Headers/FancyNativeExpressAd.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/FancySDKManager.h</key>
 		<data>
-		PWoHM8nW4ZRXfMAvLh3KxoAnB7A=
+		/3J1MZ1u/Cjcy6l7X4/iwMn73eQ=
 		</data>
 		<key>Headers/FancySplashAd.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iXRteSOCGNcwRfXR0xpVDjiL5ew=
+		MSpiEnA5s99yb5yud3gtuCG7iQw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WJXYZ3DPKfFMEzXpIjfcjjorMiM=
+			ydcpUok3JTxR6bzOVtrrjEIGjFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			75w2Fm7wpVDp3GtdNMWJzJZA3lNgN1Bk2iZIoXCuDys=
+			ZinzX0jMEuaUXJazCr6C+9HZRXKvLuyiccMLiuDkqog=
 			</data>
 		</dict>
 		<key>Headers/FancyNativeExpressAd.h</key>
@@ -102,11 +102,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PWoHM8nW4ZRXfMAvLh3KxoAnB7A=
+			/3J1MZ1u/Cjcy6l7X4/iwMn73eQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TGcwWaShEgThP/f6SXvxWKixsJZKs17Ls0eKLbfg7E0=
+			kU6Q+yeZjm9WsZIwN0jw/yttYzQAPHHSWHIcH0hfjcU=
 			</data>
 		</dict>
 		<key>Headers/FancySplashAd.h</key>

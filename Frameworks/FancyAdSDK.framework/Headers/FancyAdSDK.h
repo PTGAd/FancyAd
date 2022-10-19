@@ -2,7 +2,7 @@
 //  FancyAdSDK.h
 //  FancyAdSDK
 //
-//  Created by admin on 2021/3/31.
+//  Created by 陶永久 on 2022/10/10.
 //
 
 #import <Foundation/Foundation.h>
