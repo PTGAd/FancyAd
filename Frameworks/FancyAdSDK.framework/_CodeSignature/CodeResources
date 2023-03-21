@@ -6,35 +6,11 @@
 	<dict>
 		<key>Headers/FancyAdSDK.h</key>
 		<data>
-		ydcpUok3JTxR6bzOVtrrjEIGjFo=
-		</data>
-		<key>Headers/FancyNativeExpressAd.h</key>
-		<data>
-		pKfquhye97tFB4L+IE38TObHWpY=
-		</data>
-		<key>Headers/FancyNativeExpressAdView.h</key>
-		<data>
-		LQ8Aaf4SESnuh2745YiSPbGK2Z4=
-		</data>
-		<key>Headers/FancyNativeExpressBannerAd.h</key>
-		<data>
-		k1f9JFotqcimS3w5zNVjRqd0qqk=
-		</data>
-		<key>Headers/FancyNativeExpressInterstitialAd.h</key>
-		<data>
-		skyNGlTuUBPCDMBCQcFekTCCZJk=
-		</data>
-		<key>Headers/FancySDKManager.h</key>
-		<data>
-		/3J1MZ1u/Cjcy6l7X4/iwMn73eQ=
-		</data>
-		<key>Headers/FancySplashAd.h</key>
-		<data>
-		j/cj/bJt9j70LDvbF5FJKAEA5yc=
+		uw7mlXqU6FCNDWw86B2DmFrgCHY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LMqi6C1HU6nSGBQERlm8vCvN8G8=
+		8MoFfMdp+umyUDspgqfAWaMez7Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,77 +23,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ydcpUok3JTxR6bzOVtrrjEIGjFo=
+			uw7mlXqU6FCNDWw86B2DmFrgCHY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZinzX0jMEuaUXJazCr6C+9HZRXKvLuyiccMLiuDkqog=
-			</data>
-		</dict>
-		<key>Headers/FancyNativeExpressAd.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pKfquhye97tFB4L+IE38TObHWpY=
-			</data>
-			<key>hash2</key>
-			<data>
-			x9/Qc2GlM1VXk0rkv9/wee8dj4ad0SNTqSc6+q/HTo4=
-			</data>
-		</dict>
-		<key>Headers/FancyNativeExpressAdView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LQ8Aaf4SESnuh2745YiSPbGK2Z4=
-			</data>
-			<key>hash2</key>
-			<data>
-			KEL41PRmEdLsaZnCKBvT79ZDPQeLRjxv4xlqdw+EDq8=
-			</data>
-		</dict>
-		<key>Headers/FancyNativeExpressBannerAd.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k1f9JFotqcimS3w5zNVjRqd0qqk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ol2P1NXlt6v2wUssYMxrxmaxhNysBvXyAdfT+U1TXTI=
-			</data>
-		</dict>
-		<key>Headers/FancyNativeExpressInterstitialAd.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			skyNGlTuUBPCDMBCQcFekTCCZJk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ox2RsEBe9sHivwA5rhh4eAgMTrwMHoA6x909MQ0vG2A=
-			</data>
-		</dict>
-		<key>Headers/FancySDKManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/3J1MZ1u/Cjcy6l7X4/iwMn73eQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			kU6Q+yeZjm9WsZIwN0jw/yttYzQAPHHSWHIcH0hfjcU=
-			</data>
-		</dict>
-		<key>Headers/FancySplashAd.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			j/cj/bJt9j70LDvbF5FJKAEA5yc=
-			</data>
-			<key>hash2</key>
-			<data>
-			cDtt7RsDxHS3RQiW4Wu4y9rkVb5o5v8UZTZAhf2jJHw=
+			OjPfahoMZdJ/p/0xm9y+1jiDCCZ2nmiUyhN7xuVZXBs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
