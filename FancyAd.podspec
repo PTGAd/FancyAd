@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FancyAd"
-  spec.version      = "1.2.0"
+  spec.version      = "1.2.01"
   spec.summary      = "A short description of FancyAd."
 
 
