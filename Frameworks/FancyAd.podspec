@@ -41,7 +41,7 @@ Pod::Spec.new do |spec|
     
   spec.resources = "Frameworks/FancyAdSDK.bundle"
 
-  valid_archs = ['arm64']
+  valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
   spec.xcconfig = {
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
