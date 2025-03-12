@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FancyAd"
-  spec.version      = "1.2.30"
+  spec.version      = "1.2.31"
   spec.summary      = "A short description of FancyAd."
 
 
@@ -41,7 +41,7 @@ Pod::Spec.new do |spec|
     
   spec.resources = "Frameworks/FancyAdSDK.bundle"
 
-  valid_archs = ['armv7', 'armv7s', 'x86_64', 'arm64']
+  valid_archs = ['arm64']
   spec.xcconfig = {
     'VALID_ARCHS' =>  valid_archs.join(' '),
   }
